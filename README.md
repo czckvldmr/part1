@@ -1,1 +1,1 @@
-this project is about handling events in react
+"this part include the learning of some react components and how it communicates with the server"
